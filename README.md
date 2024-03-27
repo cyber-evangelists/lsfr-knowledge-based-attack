@@ -1,4 +1,4 @@
-# Project 1 - LFSR Stream Cipher
+# - LFSR Stream Cipher
 
 ## Overview
 
